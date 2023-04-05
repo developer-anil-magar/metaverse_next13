@@ -105,3 +105,7 @@
   background: #65c4fa;
   filter: blur(150px);
 }
+
+.gradient-purple {
+  background: linear-gradient(180deg, #FFFFFF 0%, #A965F8 90.62%);
+}
